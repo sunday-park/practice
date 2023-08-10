@@ -77,6 +77,7 @@ header> nav> h1 {
     padding: 10px;
     margin-right: 20px;
     margin-bottom: 20px;
+    /*font-family: 'Noto Sans KR', sans-serif;*/
 }
 .phrase_wrapper> h3 {
     display: block;
@@ -111,7 +112,7 @@ header> nav> h1 {
     .phrase_wrapper {
         position: absolute;
         /*padding: 0px 20px;*/
-        margin-top: 30%;
+        margin-top: 40%;
         right: 0;
         width: 100%;
         max-height: 100%;
