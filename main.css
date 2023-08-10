@@ -97,7 +97,7 @@ header> nav> h1 {
     }
     .banner {
         background-image: none;
-        min-width: 320px;
+        min-width: 480px;
     }
     .photo {
         max-width: 600px;
