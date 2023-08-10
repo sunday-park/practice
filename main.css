@@ -83,6 +83,7 @@ header> nav> h1 {
     color: white;
     padding: 20px;
     font-size:2rem;
+    text-shadow: 2px 2px 4px rgb(107, 107, 107);
 }
 
 /*[모바일]*/
@@ -93,7 +94,7 @@ header> nav> h1 {
         font-size: 3rem;
     }
     .flex-container {
-        flex-direction: column; /* 세로 방향으로 정렬 */
+        flex-direction: column;
     }
     .banner {
         background-image: none;
@@ -110,7 +111,7 @@ header> nav> h1 {
     .phrase_wrapper {
         position: absolute;
         /*padding: 0px 20px;*/
-        margin-top: 200px;
+        margin-top: 30%;
         right: 0;
         width: 100%;
         max-height: 100%;
@@ -120,7 +121,6 @@ header> nav> h1 {
     .phrase_wrapper> h3 {
         position: relative;
         color: white;
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
-    
 }
